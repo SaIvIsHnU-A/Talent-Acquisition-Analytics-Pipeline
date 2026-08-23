@@ -1,0 +1,601 @@
+candidate_id,full_name,email,years_experience,source,location
+CAND00001,Aditya Iyer,aditya.iyer1@example.com,12.0,Naukri,Noida
+CAND00002,Arjun Patel,arjun.patel2@example.com,11.2,Career Site,Pune
+CAND00003,Anjali Mehta,anjali.mehta3@example.com,10.0,College Fair,Bengaluru
+CAND00004,Ritu Reddy,ritu.reddy4@example.com,11.2,Indeed,Bengaluru
+CAND00005,Sneha Chopra,sneha.chopra5@example.com,6.6,Career Site,Hyderabad
+CAND00006,Arjun Nair,arjun.nair6@example.com,5.9,linkedin,Chennai
+CAND00007, Isha Bose ,isha.bose7@example.com,3.3,Indeed,Hyderabad
+CAND00008,Aditya Nair,aditya.nair8@example.com,8.5,Referral,Noida
+CAND00009,Priya Bose,priya.bose9@example.com,4.4,LinkedIn,Pune
+CAND00010,Pooja Kapoor,pooja.kapoor10@example.com,,Career Site,Hyderabad
+CAND00011,Neha Das,neha.das11@example.com,1.2,career site,Noida
+CAND00012,Vikram Kapoor,vikram.kapoor12@example.com,11.2,Referral,Remote
+CAND00013,Aarav Patel,aarav.patel13@example.com,8.8,Naukri,Pune
+CAND00014,Anjali Rao,anjali.rao14@example.com,,Referral ,Hyderabad
+CAND00015,Karan Bose,karan.bose15@example.com,11.0,Naukri,Hyderabad
+CAND00016,Aarav Das,aarav.das16@example.com,2.3,Indeed,Pune
+CAND00017,Nikhil Singh,nikhil.singh17@example.com,8.2,LinkedIn,Bengaluru
+CAND00018,Arjun Patel,arjun.patel18@example.com,,,Remote
+CAND00019,Pooja Chopra,pooja.chopra19@example.com,9.4,linkedin,Remote
+CAND00020,Varun Gupta,varun.gupta20@example.com,,College Fair,Chennai
+CAND00021,Karan Kumar,karan.kumar21@example.com,5.2,,Pune
+CAND00022,Sneha Chopra,sneha.chopra22@example.com,10.8,Career Site,Remote
+CAND00023,Divya Nair,divya.nair23@example.com,1.5,Referral,Noida
+CAND00024,Varun Reddy,varun.reddy24@example.com,4.9,Naukri,Remote
+CAND00025,Varun Iyer,varun.iyer25@example.com,7.9,Naukri,Noida
+CAND00026,Meera Rao,meera.rao26@example.com,10.8,linkedin,Pune
+CAND00027,Nikhil Das,nikhil.das27@example.com,7.6,Naukri,Chennai
+CAND00028,Divya Gupta,divya.gupta28@example.com,,Referral ,Noida
+CAND00029,Rohan Mehta,rohan.mehta29@example.com,5.0,career site,Remote
+CAND00030,Rahul Gupta,rahul.gupta30@example.com,1.8,linkedin,Remote
+CAND00031,Neha Patel,neha.patel31@example.com,9.6,College Fair,Hyderabad
+CAND00032,Sneha Mehta,sneha.mehta32@example.com,1.6,College Fair,Noida
+CAND00033,Sanjay Rao,sanjay.rao33@example.com,10.7,College Fair,Remote
+CAND00034,Ritu Mehta,ritu.mehta34@example.com,10.8,Indeed,Hyderabad
+CAND00035,Arjun Rao,arjun.rao35@example.com,9.3,Referral ,Bengaluru
+CAND00036,Divya Gupta,divya.gupta36@example.com,3.3,Referral,Hyderabad
+CAND00037,Neha Singh,neha.singh37@example.com,8.3,career site,Pune
+CAND00038,Ritu Mehta,ritu.mehta38@example.com,5.0,,Chennai
+CAND00039,Aarav Bose,aarav.bose39@example.com,10.6,Career Site,Pune
+CAND00040,Rahul Bose,rahul.bose40@example.com,10.7,College Fair,Noida
+CAND00041,Neha Mehta,neha.mehta41@example.com,,Career Site,Chennai
+CAND00042,Rahul Chopra,rahul.chopra42@example.com,2.0,,Noida
+CAND00043,Aarav Kapoor,aarav.kapoor43@example.com,,career site,Hyderabad
+CAND00044,Aditya Patel,aditya.patel44@example.com,0.6,Career Site,Pune
+CAND00045,Rahul Reddy,rahul.reddy45@example.com,9.0,linkedin,Remote
+CAND00046,Aarav Chopra,aarav.chopra46@example.com,6.5,linkedin,Chennai
+CAND00047,Priya Rao,priya.rao47@example.com,0.4,,Hyderabad
+CAND00048,Neha Patel,neha.patel48@example.com,5.7,Referral ,Chennai
+CAND00049,Arjun Rao,arjun.rao49@example.com,4.4,linkedin,Hyderabad
+CAND00050,Divya Verma,divya.verma50@example.com,6.9,career site,Remote
+CAND00051,Karan Verma,karan.verma51@example.com,7.1,Indeed,Chennai
+CAND00052,Kavya Rao,kavya.rao52@example.com,1.5,Career Site,Noida
+CAND00053,Isha Das,isha.das53@example.com,4.4,career site,Remote
+CAND00054,Sneha Singh,sneha.singh54@example.com,11.5,Referral,Remote
+CAND00055,Anjali Chopra,anjali.chopra55@example.com,6.3,College Fair,Remote
+CAND00056,Aditya Singh,aditya.singh56@example.com,9.9,Naukri,Bengaluru
+CAND00057,Arjun Kapoor,arjun.kapoor57@example.com,5.4,career site,Pune
+CAND00058,Aarav Mehta,aarav.mehta58@example.com,10.2,Indeed,Pune
+CAND00059,Arjun Kapoor,arjun.kapoor59@example.com,7.2,College Fair,Hyderabad
+CAND00060,Rohan Gupta,rohan.gupta60@example.com,8.6,Referral ,Chennai
+CAND00061, Meera Mehta ,meera.mehta61@example.com,9.5,Naukri,Pune
+CAND00062,Varun Kumar,varun.kumar62@example.com,5.7,College Fair,Pune
+CAND00063,Pooja Chopra,pooja.chopra63@example.com,5.4,Naukri,Pune
+CAND00064,Sneha Chopra,sneha.chopra64@example.com,6.4,Naukri,Chennai
+CAND00065,Meera Reddy,meera.reddy65@example.com,8.7,Indeed,Bengaluru
+CAND00066,Karan Reddy,karan.reddy66@example.com,,College Fair,Hyderabad
+CAND00067,Arjun Sharma,arjun.sharma67@example.com,11.7,Referral,Chennai
+CAND00068,Meera Verma,meera.verma68@example.com,10.5,Referral ,Pune
+CAND00069,Anjali Sharma,anjali.sharma69@example.com,3.0,linkedin,Remote
+CAND00070,Meera Verma,meera.verma70@example.com,6.9,,Pune
+CAND00071,Rohan Gupta,rohan.gupta71@example.com,1.4,,Hyderabad
+CAND00072,Nikhil Singh,nikhil.singh72@example.com,5.4,career site,Pune
+CAND00073,Varun Iyer,varun.iyer73@example.com,0.7,Naukri,Chennai
+CAND00074,Karan Reddy,karan.reddy74@example.com,7.9,linkedin,Hyderabad
+CAND00075,Aarav Singh,aarav.singh75@example.com,5.4,Naukri,Pune
+CAND00076, Divya Chopra ,divya.chopra76@example.com,10.3,Indeed,Chennai
+CAND00077,Varun Das,varun.das77@example.com,9.6,Naukri,Chennai
+CAND00078,Vikram Kapoor,vikram.kapoor78@example.com,3.2,Indeed,Noida
+CAND00079,Varun Kapoor,varun.kapoor79@example.com,3.5,career site,Pune
+CAND00080, Nikhil Nair ,nikhil.nair80@example.com,,career site,Chennai
+CAND00081, Sanjay Iyer ,sanjay.iyer81@example.com,3.0,,Noida
+CAND00082,Aarav Rao,aarav.rao82@example.com,,Referral,Remote
+CAND00083,Nikhil Das,nikhil.das83@example.com,5.3,career site,Chennai
+CAND00084,Meera Verma,meera.verma84@example.com,5.6,linkedin,Hyderabad
+CAND00085,Sanjay Singh,sanjay.singh85@example.com,8.3,College Fair,Bengaluru
+CAND00086,Aditya Verma,aditya.verma86@example.com,3.8,career site,Noida
+CAND00087,Aarav Das,aarav.das87@example.com,10.4,College Fair,Pune
+CAND00088,Kavya Rao,kavya.rao88@example.com,6.0,Indeed,Noida
+CAND00089,Vikram Kapoor,vikram.kapoor89@example.com,3.5,LinkedIn,Chennai
+CAND00090,Kavya Rao,kavya.rao90@example.com,2.9,College Fair,Remote
+CAND00091,Rohan Gupta,rohan.gupta91@example.com,11.9,linkedin,Chennai
+CAND00092,Vikram Mehta,vikram.mehta92@example.com,11.2,career site,Remote
+CAND00093,Meera Gupta,meera.gupta93@example.com,5.5,,Noida
+CAND00094,Vikram Bose,vikram.bose94@example.com,0.8,Career Site,Noida
+CAND00095,Arjun Bose,arjun.bose95@example.com,0.0,,Chennai
+CAND00096,Meera Bose,meera.bose96@example.com,1.8,College Fair,Noida
+CAND00097,Rahul Mehta,rahul.mehta97@example.com,11.2,Naukri,Noida
+CAND00098,Rahul Gupta,rahul.gupta98@example.com,10.3,Referral ,Chennai
+CAND00099,Rahul Singh,rahul.singh99@example.com,11.9,Referral,Remote
+CAND00100,Priya Patel,priya.patel100@example.com,6.0,Referral ,Bengaluru
+CAND00101,Nikhil Kapoor,nikhil.kapoor101@example.com,5.5,Referral,Bengaluru
+CAND00102,Meera Rao,meera.rao102@example.com,11.6,linkedin,Pune
+CAND00103,Ritu Singh,ritu.singh103@example.com,11.4,Referral ,Noida
+CAND00104,Priya Iyer,priya.iyer104@example.com,0.8,Naukri,Chennai
+CAND00105,Rohan Singh,rohan.singh105@example.com,11.7,linkedin,Remote
+CAND00106, Anjali Chopra ,anjali.chopra106@example.com,3.6,LinkedIn,Pune
+CAND00107,Pooja Kumar,pooja.kumar107@example.com,5.2,Referral,Hyderabad
+CAND00108,Anjali Verma,anjali.verma108@example.com,7.3,Referral ,Noida
+CAND00109,Vikram Gupta,vikram.gupta109@example.com,5.5,LinkedIn,Remote
+CAND00110, Divya Das ,divya.das110@example.com,6.6,,Pune
+CAND00111,Isha Chopra,isha.chopra111@example.com,3.0,career site,Remote
+CAND00112,Sneha Gupta,sneha.gupta112@example.com,4.6,Indeed,Bengaluru
+CAND00113,Rahul Reddy,rahul.reddy113@example.com,0.1,LinkedIn,Noida
+CAND00114,Meera Bose,meera.bose114@example.com,10.8,,Pune
+CAND00115,Neha Das,neha.das115@example.com,2.3,Referral,Chennai
+CAND00116, Sneha Kapoor ,sneha.kapoor116@example.com,7.5,LinkedIn,Noida
+CAND00117,Pooja Chopra,pooja.chopra117@example.com,1.6,career site,Hyderabad
+CAND00118,Karan Patel,karan.patel118@example.com,9.4,College Fair,Pune
+CAND00119,Anjali Reddy,anjali.reddy119@example.com,11.0,Indeed,Chennai
+CAND00120,Sanjay Rao,sanjay.rao120@example.com,1.4,Naukri,Chennai
+CAND00121,Rahul Bose,rahul.bose121@example.com,9.7,LinkedIn,Pune
+CAND00122,Ritu Verma,ritu.verma122@example.com,5.5,,Remote
+CAND00123,Pooja Verma,pooja.verma123@example.com,8.1,College Fair,Pune
+CAND00124,Kavya Gupta,kavya.gupta124@example.com,7.8,Indeed,Chennai
+CAND00125,Isha Verma,isha.verma125@example.com,1.7,Referral ,Bengaluru
+CAND00126,Sneha Gupta,sneha.gupta126@example.com,10.6,College Fair,Remote
+CAND00127,Varun Chopra,varun.chopra127@example.com,8.7,Referral ,Noida
+CAND00128,Isha Reddy,isha.reddy128@example.com,0.4,Naukri,Pune
+CAND00129,Sneha Das,sneha.das129@example.com,4.4,LinkedIn,Remote
+CAND00130,Arjun Gupta,arjun.gupta130@example.com,11.6,linkedin,Chennai
+CAND00131,Karan Das,karan.das131@example.com,7.7,Career Site,Hyderabad
+CAND00132, Vikram Rao ,vikram.rao132@example.com,6.8,Naukri,Noida
+CAND00133,Karan Bose,karan.bose133@example.com,10.4,,Bengaluru
+CAND00134,Arjun Bose,arjun.bose134@example.com,11.8,Referral,Bengaluru
+CAND00135,Aarav Patel,aarav.patel135@example.com,0.2,Career Site,Bengaluru
+CAND00136,Anjali Reddy,anjali.reddy136@example.com,0.6,linkedin,Remote
+CAND00137,Aditya Rao,aditya.rao137@example.com,4.3,Naukri,Noida
+CAND00138,Priya Chopra,priya.chopra138@example.com,9.4,Referral ,Chennai
+CAND00139,Aarav Sharma,aarav.sharma139@example.com,12.0,linkedin,Remote
+CAND00140,Aditya Verma,aditya.verma140@example.com,10.8,Referral,Pune
+CAND00141,Kavya Das,kavya.das141@example.com,7.0,,Noida
+CAND00142,Divya Mehta,divya.mehta142@example.com,6.1,linkedin,Chennai
+CAND00143,Ritu Chopra,ritu.chopra143@example.com,10.4,career site,Pune
+CAND00144, Aditya Singh ,aditya.singh144@example.com,5.0,Indeed,Pune
+CAND00145, Vikram Das ,vikram.das145@example.com,11.1,linkedin,Remote
+CAND00146,Sneha Chopra,sneha.chopra146@example.com,8.9,,Noida
+CAND00147,Ritu Kumar,ritu.kumar147@example.com,8.0,career site,Chennai
+CAND00148,Priya Reddy,priya.reddy148@example.com,7.2,Naukri,Hyderabad
+CAND00149,Meera Gupta,meera.gupta149@example.com,10.2,linkedin,Pune
+CAND00150,Varun Gupta,varun.gupta150@example.com,9.7,,Noida
+CAND00151,Ritu Sharma,ritu.sharma151@example.com,7.3,LinkedIn,Hyderabad
+CAND00152,Arjun Chopra,arjun.chopra152@example.com,9.1,Referral,Hyderabad
+CAND00153,Varun Das,varun.das153@example.com,4.8,LinkedIn,Bengaluru
+CAND00154,Nikhil Gupta,nikhil.gupta154@example.com,4.5,Indeed,Chennai
+CAND00155,Sanjay Rao,sanjay.rao155@example.com,11.3,Referral,Hyderabad
+CAND00156,Kavya Sharma,kavya.sharma156@example.com,8.1,Referral ,Noida
+CAND00157,Aditya Singh,aditya.singh157@example.com,3.3,career site,Bengaluru
+CAND00158,Divya Das,divya.das158@example.com,8.1,LinkedIn,Hyderabad
+CAND00159,Rahul Iyer,rahul.iyer159@example.com,0.7,Referral,Pune
+CAND00160,Divya Kumar,divya.kumar160@example.com,1.4,Referral,Remote
+CAND00161,Ritu Chopra,ritu.chopra161@example.com,2.8,Career Site,Bengaluru
+CAND00162,Rahul Bose,rahul.bose162@example.com,8.9,linkedin,Pune
+CAND00163,Varun Singh,varun.singh163@example.com,6.9,linkedin,Remote
+CAND00164,Aarav Kumar,aarav.kumar164@example.com,2.1,Career Site,Bengaluru
+CAND00165,Isha Bose,isha.bose165@example.com,1.3,linkedin,Remote
+CAND00166,Divya Chopra,divya.chopra166@example.com,4.1,College Fair,Chennai
+CAND00167,Sneha Nair,sneha.nair167@example.com,6.1,Referral,Hyderabad
+CAND00168,Sneha Patel,sneha.patel168@example.com,3.1,linkedin,Hyderabad
+CAND00169,Meera Mehta,meera.mehta169@example.com,9.1,,Chennai
+CAND00170,Kavya Kumar,kavya.kumar170@example.com,10.4,linkedin,Remote
+CAND00171,Aditya Das,aditya.das171@example.com,3.6,College Fair,Bengaluru
+CAND00172, Divya Mehta ,divya.mehta172@example.com,5.4,linkedin,Chennai
+CAND00173,Rohan Iyer,rohan.iyer173@example.com,7.1,LinkedIn,Remote
+CAND00174,Varun Das,varun.das174@example.com,2.3,LinkedIn,Remote
+CAND00175,Sneha Rao,sneha.rao175@example.com,10.8,College Fair,Chennai
+CAND00176,Anjali Sharma,anjali.sharma176@example.com,3.0,College Fair,Noida
+CAND00177,Anjali Kumar,anjali.kumar177@example.com,4.5,Career Site,Chennai
+CAND00178,Kavya Sharma,kavya.sharma178@example.com,9.5,linkedin,Noida
+CAND00179,Rahul Reddy,rahul.reddy179@example.com,3.0,,Hyderabad
+CAND00180,Sanjay Verma,sanjay.verma180@example.com,7.0,career site,Hyderabad
+CAND00181,Kavya Chopra,kavya.chopra181@example.com,11.3,Career Site,Hyderabad
+CAND00182,Nikhil Verma,nikhil.verma182@example.com,7.8,Career Site,Pune
+CAND00183,Anjali Gupta,anjali.gupta183@example.com,4.1,Referral,Hyderabad
+CAND00184,Rohan Reddy,rohan.reddy184@example.com,10.1,College Fair,Bengaluru
+CAND00185,Sanjay Kapoor,sanjay.kapoor185@example.com,9.2,Referral,Hyderabad
+CAND00186,Kavya Rao,kavya.rao186@example.com,,Career Site,Chennai
+CAND00187,Neha Mehta,neha.mehta187@example.com,7.3,Naukri,Noida
+CAND00188,Neha Reddy,neha.reddy188@example.com,11.6,Naukri,Pune
+CAND00189,Varun Mehta,varun.mehta189@example.com,5.5,College Fair,Remote
+CAND00190,Anjali Bose,anjali.bose190@example.com,2.4,LinkedIn,Chennai
+CAND00191,Meera Bose,meera.bose191@example.com,4.5,College Fair,Bengaluru
+CAND00192,Divya Verma,divya.verma192@example.com,9.2,Referral,Remote
+CAND00193,Rohan Kapoor,rohan.kapoor193@example.com,2.7,LinkedIn,Remote
+CAND00194,Priya Singh,priya.singh194@example.com,6.0,Career Site,Hyderabad
+CAND00195,Aarav Kumar,aarav.kumar195@example.com,11.2,Referral,Hyderabad
+CAND00196,Priya Reddy,priya.reddy196@example.com,11.0,Referral ,Remote
+CAND00197, Kavya Sharma ,kavya.sharma197@example.com,10.9,Referral,Noida
+CAND00198,Kavya Nair,kavya.nair198@example.com,5.1,linkedin,Bengaluru
+CAND00199,Neha Singh,neha.singh199@example.com,7.7,Referral ,Noida
+CAND00200,Ritu Sharma,ritu.sharma200@example.com,7.6,Indeed,Remote
+CAND00201,Aarav Iyer,aarav.iyer201@example.com,4.2,linkedin,Noida
+CAND00202,Pooja Verma,pooja.verma202@example.com,11.4,College Fair,Noida
+CAND00203, Aarav Singh ,aarav.singh203@example.com,10.5,Career Site,Pune
+CAND00204,Aarav Kumar,aarav.kumar204@example.com,9.5,linkedin,Noida
+CAND00205,Sanjay Patel,sanjay.patel205@example.com,0.5,Referral,Chennai
+CAND00206,Aditya Chopra,aditya.chopra206@example.com,5.7,Referral ,Bengaluru
+CAND00207,Divya Gupta,divya.gupta207@example.com,,Indeed,Noida
+CAND00208,Rahul Bose,rahul.bose208@example.com,6.5,Naukri,Pune
+CAND00209,Pooja Bose,pooja.bose209@example.com,9.4,linkedin,Pune
+CAND00210,Isha Kapoor,isha.kapoor210@example.com,4.8,Career Site,Hyderabad
+CAND00211,Meera Chopra,meera.chopra211@example.com,6.0,linkedin,Chennai
+CAND00212,Isha Verma,isha.verma212@example.com,5.2,Indeed,Pune
+CAND00213,Sneha Verma,sneha.verma213@example.com,3.9,career site,Hyderabad
+CAND00214,Aditya Kumar,aditya.kumar214@example.com,5.4,,Remote
+CAND00215,Arjun Das,arjun.das215@example.com,11.8,career site,Pune
+CAND00216,Nikhil Rao,nikhil.rao216@example.com,,,Chennai
+CAND00217,Aditya Sharma,aditya.sharma217@example.com,1.5,Career Site,Remote
+CAND00218,Varun Sharma,varun.sharma218@example.com,7.3,Career Site,Remote
+CAND00219,Rohan Iyer,rohan.iyer219@example.com,1.7,Indeed,Hyderabad
+CAND00220,Sneha Sharma,sneha.sharma220@example.com,8.8,College Fair,Bengaluru
+CAND00221,Arjun Rao,arjun.rao221@example.com,3.1,Indeed,Chennai
+CAND00222,Meera Gupta,meera.gupta222@example.com,1.5,Referral ,Bengaluru
+CAND00223, Sanjay Das ,sanjay.das223@example.com,4.2,Indeed,Hyderabad
+CAND00224,Anjali Rao,anjali.rao224@example.com,4.3,Referral,Hyderabad
+CAND00225,Meera Sharma,meera.sharma225@example.com,4.3,College Fair,Hyderabad
+CAND00226,Kavya Kapoor,kavya.kapoor226@example.com,1.0,Referral ,Noida
+CAND00227,Isha Rao,isha.rao227@example.com,4.9,Career Site,Chennai
+CAND00228,Rohan Mehta,rohan.mehta228@example.com,5.6,College Fair,Chennai
+CAND00229,Varun Patel,varun.patel229@example.com,9.2,LinkedIn,Bengaluru
+CAND00230,Nikhil Patel,nikhil.patel230@example.com,3.6,Naukri,Pune
+CAND00231, Nikhil Kapoor ,nikhil.kapoor231@example.com,3.4,College Fair,Pune
+CAND00232,Vikram Das,vikram.das232@example.com,3.6,Referral,Noida
+CAND00233,Varun Patel,varun.patel233@example.com,2.1,Career Site,Noida
+CAND00234, Priya Bose ,priya.bose234@example.com,10.4,,Pune
+CAND00235,Karan Rao,karan.rao235@example.com,,College Fair,Pune
+CAND00236,Divya Mehta,divya.mehta236@example.com,2.9,Referral ,Bengaluru
+CAND00237,Priya Patel,priya.patel237@example.com,5.3,,Hyderabad
+CAND00238,Sanjay Bose,sanjay.bose238@example.com,8.6,career site,Hyderabad
+CAND00239,Pooja Nair,pooja.nair239@example.com,6.7,Indeed,Remote
+CAND00240,Neha Patel,neha.patel240@example.com,1.2,,Remote
+CAND00241,Neha Bose,neha.bose241@example.com,10.8,Career Site,Hyderabad
+CAND00242,Anjali Mehta,anjali.mehta242@example.com,12.0,Referral ,Bengaluru
+CAND00243,Rohan Singh,rohan.singh243@example.com,6.1,Career Site,Bengaluru
+CAND00244,Priya Reddy,priya.reddy244@example.com,5.9,Referral ,Pune
+CAND00245,Ritu Sharma,ritu.sharma245@example.com,10.2,Career Site,Remote
+CAND00246,Pooja Sharma,pooja.sharma246@example.com,4.8,College Fair,Pune
+CAND00247,Rohan Singh,rohan.singh247@example.com,6.1,,Chennai
+CAND00248, Kavya Verma ,kavya.verma248@example.com,1.5,Career Site,Noida
+CAND00249,Pooja Rao,pooja.rao249@example.com,1.7,LinkedIn,Bengaluru
+CAND00250,Priya Patel,priya.patel250@example.com,8.6,Referral,Noida
+CAND00251,Nikhil Patel,nikhil.patel251@example.com,3.9,,Chennai
+CAND00252,Divya Iyer,divya.iyer252@example.com,4.0,,Pune
+CAND00253,Meera Bose,meera.bose253@example.com,0.2,career site,Noida
+CAND00254,Divya Rao,divya.rao254@example.com,10.8,,Remote
+CAND00255,Arjun Das,arjun.das255@example.com,9.4,LinkedIn,Noida
+CAND00256,Meera Patel,meera.patel256@example.com,6.3,career site,Hyderabad
+CAND00257,Neha Sharma,neha.sharma257@example.com,6.9,Referral ,Pune
+CAND00258,Isha Patel,isha.patel258@example.com,5.0,,Remote
+CAND00259,Priya Chopra,priya.chopra259@example.com,1.7,Referral ,Noida
+CAND00260,Rahul Kumar,rahul.kumar260@example.com,11.5,College Fair,Pune
+CAND00261,Arjun Iyer,arjun.iyer261@example.com,5.8,Indeed,Hyderabad
+CAND00262,Divya Rao,divya.rao262@example.com,3.5,Career Site,Remote
+CAND00263,Pooja Nair,pooja.nair263@example.com,11.2,linkedin,Noida
+CAND00264,Ritu Singh,ritu.singh264@example.com,10.7,Referral,Pune
+CAND00265, Priya Reddy ,priya.reddy265@example.com,11.5,Indeed,Chennai
+CAND00266,Meera Gupta,meera.gupta266@example.com,2.4,Indeed,Hyderabad
+CAND00267,Sneha Iyer,sneha.iyer267@example.com,8.9,College Fair,Hyderabad
+CAND00268,Neha Sharma,neha.sharma268@example.com,1.2,Referral,Bengaluru
+CAND00269,Ritu Kapoor,ritu.kapoor269@example.com,1.9,Referral ,Remote
+CAND00270,Karan Rao,karan.rao270@example.com,11.6,linkedin,Chennai
+CAND00271,Varun Gupta,varun.gupta271@example.com,6.4,Referral,Remote
+CAND00272,Anjali Kapoor,anjali.kapoor272@example.com,11.0,Referral ,Hyderabad
+CAND00273,Divya Kapoor,divya.kapoor273@example.com,0.4,Career Site,Pune
+CAND00274,Aditya Das,aditya.das274@example.com,6.5,College Fair,Remote
+CAND00275,Arjun Gupta,arjun.gupta275@example.com,9.7,Indeed,Chennai
+CAND00276,Anjali Sharma,anjali.sharma276@example.com,8.8,Naukri,Hyderabad
+CAND00277,Kavya Bose,kavya.bose277@example.com,7.7,Career Site,Bengaluru
+CAND00278,Rahul Das,rahul.das278@example.com,1.1,Naukri,Bengaluru
+CAND00279,Arjun Singh,arjun.singh279@example.com,2.8,Indeed,Noida
+CAND00280,Varun Sharma,varun.sharma280@example.com,3.1,linkedin,Remote
+CAND00281,Divya Patel,divya.patel281@example.com,4.9,Indeed,Chennai
+CAND00282,Sneha Das,sneha.das282@example.com,11.0,Naukri,Hyderabad
+CAND00283,Meera Patel,meera.patel283@example.com,5.5,College Fair,Remote
+CAND00284,Ritu Rao,ritu.rao284@example.com,8.0,,Bengaluru
+CAND00285,Nikhil Mehta,nikhil.mehta285@example.com,6.3,linkedin,Bengaluru
+CAND00286,Ritu Kapoor,ritu.kapoor286@example.com,6.1,Career Site,Noida
+CAND00287,Aditya Verma,aditya.verma287@example.com,8.2,College Fair,Remote
+CAND00288,Priya Mehta,priya.mehta288@example.com,1.6,College Fair,Remote
+CAND00289,Divya Chopra,divya.chopra289@example.com,,Naukri,Noida
+CAND00290,Rohan Sharma,rohan.sharma290@example.com,5.1,LinkedIn,Bengaluru
+CAND00291,Meera Sharma,meera.sharma291@example.com,3.4,career site,Pune
+CAND00292,Rahul Mehta,rahul.mehta292@example.com,10.4,College Fair,Hyderabad
+CAND00293,Pooja Verma,pooja.verma293@example.com,2.1,Naukri,Bengaluru
+CAND00294,Aarav Reddy,aarav.reddy294@example.com,5.6,career site,Hyderabad
+CAND00295,Neha Mehta,neha.mehta295@example.com,4.2,linkedin,Bengaluru
+CAND00296,Isha Iyer,isha.iyer296@example.com,,Naukri,Bengaluru
+CAND00297,Sneha Iyer,sneha.iyer297@example.com,0.4,LinkedIn,Hyderabad
+CAND00298,Priya Singh,priya.singh298@example.com,5.3,LinkedIn,Hyderabad
+CAND00299,Nikhil Reddy,nikhil.reddy299@example.com,2.8,,Noida
+CAND00300,Sanjay Gupta,sanjay.gupta300@example.com,3.6,Naukri,Remote
+CAND00301,Divya Reddy,divya.reddy301@example.com,0.7,Referral,Chennai
+CAND00302,Isha Nair,isha.nair302@example.com,5.9,career site,Noida
+CAND00303,Sanjay Chopra,sanjay.chopra303@example.com,5.0,College Fair,Remote
+CAND00304,Neha Bose,neha.bose304@example.com,2.7,Referral ,Bengaluru
+CAND00305,Ritu Singh,ritu.singh305@example.com,11.6,Naukri,Pune
+CAND00306,Karan Kumar,karan.kumar306@example.com,7.8,linkedin,Noida
+CAND00307,Karan Sharma,karan.sharma307@example.com,3.2,linkedin,Hyderabad
+CAND00308,Varun Chopra,varun.chopra308@example.com,8.1,Career Site,Pune
+CAND00309,Aarav Gupta,aarav.gupta309@example.com,11.2,Referral ,Hyderabad
+CAND00310,Kavya Chopra,kavya.chopra310@example.com,2.5,Indeed,Remote
+CAND00311,Aditya Nair,aditya.nair311@example.com,7.8,Referral ,Remote
+CAND00312,Sneha Rao,sneha.rao312@example.com,11.8,Naukri,Pune
+CAND00313,Sanjay Singh,sanjay.singh313@example.com,0.5,LinkedIn,Pune
+CAND00314,Ritu Kapoor,ritu.kapoor314@example.com,7.0,Naukri,Pune
+CAND00315,Neha Singh,neha.singh315@example.com,6.8,Career Site,Pune
+CAND00316,Meera Chopra,meera.chopra316@example.com,7.7,Career Site,Hyderabad
+CAND00317,Vikram Chopra,vikram.chopra317@example.com,6.6,LinkedIn,Noida
+CAND00318,Priya Bose,priya.bose318@example.com,10.2,LinkedIn,Remote
+CAND00319, Vikram Bose ,vikram.bose319@example.com,7.6,Naukri,Noida
+CAND00320,Aditya Kumar,aditya.kumar320@example.com,0.7,Referral ,Chennai
+CAND00321,Meera Sharma,meera.sharma321@example.com,,College Fair,Chennai
+CAND00322, Arjun Nair ,arjun.nair322@example.com,11.7,career site,Hyderabad
+CAND00323,Sneha Kapoor,sneha.kapoor323@example.com,1.2,College Fair,Pune
+CAND00324, Pooja Reddy ,pooja.reddy324@example.com,9.5,Referral ,Noida
+CAND00325,Neha Chopra,neha.chopra325@example.com,2.7,LinkedIn,Bengaluru
+CAND00326,Rahul Singh,rahul.singh326@example.com,4.5,Referral,Bengaluru
+CAND00327,Meera Bose,meera.bose327@example.com,5.2,linkedin,Noida
+CAND00328,Priya Gupta,priya.gupta328@example.com,2.5,Referral ,Pune
+CAND00329,Priya Kapoor,priya.kapoor329@example.com,0.9,,Chennai
+CAND00330,Priya Patel,priya.patel330@example.com,11.1,,Hyderabad
+CAND00331,Rahul Kapoor,rahul.kapoor331@example.com,0.9,career site,Chennai
+CAND00332,Ritu Kumar,ritu.kumar332@example.com,4.6,linkedin,Noida
+CAND00333,Pooja Sharma,pooja.sharma333@example.com,1.2,,Noida
+CAND00334,Kavya Singh,kavya.singh334@example.com,11.6,Referral ,Remote
+CAND00335,Neha Kumar,neha.kumar335@example.com,6.6,,Chennai
+CAND00336,Rahul Verma,rahul.verma336@example.com,9.3,linkedin,Bengaluru
+CAND00337,Arjun Patel,arjun.patel337@example.com,4.6,career site,Pune
+CAND00338,Pooja Verma,pooja.verma338@example.com,1.1,Indeed,Bengaluru
+CAND00339,Vikram Verma,vikram.verma339@example.com,2.2,career site,Bengaluru
+CAND00340, Aarav Verma ,aarav.verma340@example.com,4.2,Career Site,Remote
+CAND00341,Aarav Reddy,aarav.reddy341@example.com,5.0,College Fair,Hyderabad
+CAND00342,Varun Nair,varun.nair342@example.com,2.0,Indeed,Pune
+CAND00343,Meera Patel,meera.patel343@example.com,0.8,Referral ,Bengaluru
+CAND00344,Pooja Reddy,pooja.reddy344@example.com,11.3,,Hyderabad
+CAND00345, Aditya Verma ,aditya.verma345@example.com,1.6,,Remote
+CAND00346,Sanjay Mehta,sanjay.mehta346@example.com,4.0,,Hyderabad
+CAND00347,Divya Kumar,divya.kumar347@example.com,7.2,Referral,Remote
+CAND00348,Sanjay Reddy,sanjay.reddy348@example.com,8.8,Naukri,Pune
+CAND00349,Rahul Reddy,rahul.reddy349@example.com,9.8,,Hyderabad
+CAND00350,Varun Nair,varun.nair350@example.com,,Referral ,Chennai
+CAND00351,Karan Mehta,karan.mehta351@example.com,9.6,career site,Chennai
+CAND00352,Meera Patel,meera.patel352@example.com,7.6,career site,Remote
+CAND00353,Rohan Mehta,rohan.mehta353@example.com,11.9,College Fair,Chennai
+CAND00354,Isha Nair,isha.nair354@example.com,0.4,College Fair,Noida
+CAND00355,Rohan Verma,rohan.verma355@example.com,9.2,,Bengaluru
+CAND00356,Varun Das,varun.das356@example.com,8.1,career site,Bengaluru
+CAND00357,Aarav Verma,aarav.verma357@example.com,3.1,,Chennai
+CAND00358,Varun Gupta,varun.gupta358@example.com,5.3,,Chennai
+CAND00359, Nikhil Patel ,nikhil.patel359@example.com,4.1,career site,Bengaluru
+CAND00360,Sneha Bose,sneha.bose360@example.com,11.3,Referral ,Hyderabad
+CAND00361, Nikhil Mehta ,nikhil.mehta361@example.com,4.2,Referral ,Pune
+CAND00362,Rohan Reddy,rohan.reddy362@example.com,,Career Site,Chennai
+CAND00363,Sneha Das,sneha.das363@example.com,9.6,College Fair,Hyderabad
+CAND00364,Ritu Patel,ritu.patel364@example.com,4.0,career site,Chennai
+CAND00365,Anjali Patel,anjali.patel365@example.com,,,Hyderabad
+CAND00366, Aditya Iyer ,aditya.iyer366@example.com,5.2,Indeed,Chennai
+CAND00367,Rohan Iyer,rohan.iyer367@example.com,1.2,Career Site,Hyderabad
+CAND00368,Aditya Verma,aditya.verma368@example.com,3.1,Career Site,Noida
+CAND00369,Rahul Iyer,rahul.iyer369@example.com,4.7,Referral ,Noida
+CAND00370,Anjali Bose,anjali.bose370@example.com,8.1,,Bengaluru
+CAND00371,Vikram Kumar,vikram.kumar371@example.com,1.4,Referral,Noida
+CAND00372,Rahul Singh,rahul.singh372@example.com,7.2,Referral ,Chennai
+CAND00373,Ritu Chopra,ritu.chopra373@example.com,11.0,Referral,Remote
+CAND00374,Divya Patel,divya.patel374@example.com,2.2,Career Site,Bengaluru
+CAND00375,Meera Patel,meera.patel375@example.com,2.3,Referral ,Remote
+CAND00376,Meera Singh,meera.singh376@example.com,8.5,,Bengaluru
+CAND00377,Neha Reddy,neha.reddy377@example.com,0.4,Referral ,Noida
+CAND00378,Meera Nair,meera.nair378@example.com,6.1,College Fair,Pune
+CAND00379,Ritu Bose,ritu.bose379@example.com,9.1,Naukri,Remote
+CAND00380,Sneha Chopra,sneha.chopra380@example.com,10.0,LinkedIn,Remote
+CAND00381, Arjun Kumar ,arjun.kumar381@example.com,10.3,linkedin,Hyderabad
+CAND00382,Karan Rao,karan.rao382@example.com,8.9,,Chennai
+CAND00383,Isha Patel,isha.patel383@example.com,7.4,LinkedIn,Noida
+CAND00384,Pooja Nair,pooja.nair384@example.com,3.4,Indeed,Pune
+CAND00385,Varun Reddy,varun.reddy385@example.com,11.4,linkedin,Hyderabad
+CAND00386,Isha Kapoor,isha.kapoor386@example.com,0.7,Referral,Hyderabad
+CAND00387,Vikram Chopra,vikram.chopra387@example.com,3.9,career site,Remote
+CAND00388,Vikram Iyer,vikram.iyer388@example.com,7.6,linkedin,Chennai
+CAND00389,Rohan Singh,rohan.singh389@example.com,6.2,Career Site,Remote
+CAND00390,Meera Kumar,meera.kumar390@example.com,7.0,linkedin,Chennai
+CAND00391,Aditya Das,aditya.das391@example.com,8.0,College Fair,Remote
+CAND00392,Karan Singh,karan.singh392@example.com,9.9,Indeed,Pune
+CAND00393,Ritu Iyer,ritu.iyer393@example.com,1.6,LinkedIn,Bengaluru
+CAND00394,Sneha Das,sneha.das394@example.com,9.4,Referral,Remote
+CAND00395,Aditya Sharma,aditya.sharma395@example.com,11.9,Referral,Chennai
+CAND00396,Divya Patel,divya.patel396@example.com,10.5,Career Site,Pune
+CAND00397,Rohan Kumar,rohan.kumar397@example.com,8.0,Indeed,Chennai
+CAND00398,Neha Singh,neha.singh398@example.com,,Referral ,Bengaluru
+CAND00399,Vikram Iyer,vikram.iyer399@example.com,,Career Site,Bengaluru
+CAND00400, Isha Chopra ,isha.chopra400@example.com,1.6,linkedin,Bengaluru
+CAND00401,Sanjay Kumar,sanjay.kumar401@example.com,10.6,Referral,Chennai
+CAND00402, Vikram Verma ,vikram.verma402@example.com,6.4,Referral ,Pune
+CAND00403,Karan Das,karan.das403@example.com,9.0,Referral ,Hyderabad
+CAND00404,Rohan Kapoor,rohan.kapoor404@example.com,1.2,career site,Pune
+CAND00405,Isha Kumar,isha.kumar405@example.com,9.5,Naukri,Noida
+CAND00406,Kavya Iyer,kavya.iyer406@example.com,8.7,LinkedIn,Chennai
+CAND00407,Divya Gupta,divya.gupta407@example.com,6.2,Indeed,Chennai
+CAND00408,Priya Rao,priya.rao408@example.com,10.8,linkedin,Hyderabad
+CAND00409,Meera Das,meera.das409@example.com,7.1,Career Site,Pune
+CAND00410,Vikram Singh,vikram.singh410@example.com,10.3,Referral,Remote
+CAND00411, Rohan Sharma ,rohan.sharma411@example.com,7.0,LinkedIn,Remote
+CAND00412,Nikhil Reddy,nikhil.reddy412@example.com,7.5,career site,Bengaluru
+CAND00413,Ritu Nair,ritu.nair413@example.com,7.4,College Fair,Hyderabad
+CAND00414,Vikram Nair,vikram.nair414@example.com,3.9,linkedin,Pune
+CAND00415,Isha Chopra,isha.chopra415@example.com,11.4,career site,Bengaluru
+CAND00416,Aditya Iyer,aditya.iyer416@example.com,7.3,Referral,Bengaluru
+CAND00417, Aarav Chopra ,aarav.chopra417@example.com,1.6,Career Site,Noida
+CAND00418,Nikhil Rao,nikhil.rao418@example.com,9.9,Indeed,Chennai
+CAND00419,Sneha Rao,sneha.rao419@example.com,10.8,College Fair,Bengaluru
+CAND00420,Arjun Chopra,arjun.chopra420@example.com,11.7,College Fair,Pune
+CAND00421,Priya Mehta,priya.mehta421@example.com,10.3,linkedin,Noida
+CAND00422, Sneha Gupta ,sneha.gupta422@example.com,8.9,LinkedIn,Hyderabad
+CAND00423,Priya Mehta,priya.mehta423@example.com,4.4,LinkedIn,Noida
+CAND00424,Isha Gupta,isha.gupta424@example.com,3.9,Indeed,Bengaluru
+CAND00425,Varun Kumar,varun.kumar425@example.com,1.4,Naukri,Noida
+CAND00426,Priya Singh,priya.singh426@example.com,0.8,Indeed,Pune
+CAND00427,Rohan Nair,rohan.nair427@example.com,5.5,Indeed,Chennai
+CAND00428,Kavya Gupta,kavya.gupta428@example.com,5.6,Naukri,Chennai
+CAND00429,Ritu Rao,ritu.rao429@example.com,9.6,LinkedIn,Hyderabad
+CAND00430,Ritu Kumar,ritu.kumar430@example.com,,Career Site,Bengaluru
+CAND00431,Rahul Bose,rahul.bose431@example.com,8.9,Naukri,Remote
+CAND00432,Meera Sharma,meera.sharma432@example.com,11.7,LinkedIn,Hyderabad
+CAND00433,Nikhil Singh,nikhil.singh433@example.com,8.4,linkedin,Noida
+CAND00434,Sneha Nair,sneha.nair434@example.com,1.6,,Bengaluru
+CAND00435,Isha Das,isha.das435@example.com,11.6,Career Site,Remote
+CAND00436,Sanjay Kumar,sanjay.kumar436@example.com,5.4,Referral,Noida
+CAND00437,Sneha Patel,sneha.patel437@example.com,1.3,linkedin,Noida
+CAND00438,Pooja Rao,pooja.rao438@example.com,2.5,linkedin,Bengaluru
+CAND00439,Anjali Rao,anjali.rao439@example.com,8.2,LinkedIn,Hyderabad
+CAND00440,Sanjay Patel,sanjay.patel440@example.com,1.1,College Fair,Bengaluru
+CAND00441,Divya Reddy,divya.reddy441@example.com,9.8,Referral ,Noida
+CAND00442,Ritu Gupta,ritu.gupta442@example.com,1.1,linkedin,Bengaluru
+CAND00443,Priya Bose,priya.bose443@example.com,9.4,career site,Pune
+CAND00444,Rohan Iyer,rohan.iyer444@example.com,7.0,linkedin,Hyderabad
+CAND00445,Aditya Rao,aditya.rao445@example.com,1.5,Career Site,Bengaluru
+CAND00446,Priya Mehta,priya.mehta446@example.com,0.6,career site,Remote
+CAND00447,Aarav Singh,aarav.singh447@example.com,8.2,Referral,Pune
+CAND00448, Arjun Mehta ,arjun.mehta448@example.com,10.6,Naukri,Chennai
+CAND00449,Divya Mehta,divya.mehta449@example.com,4.9,Indeed,Remote
+CAND00450,Vikram Singh,vikram.singh450@example.com,2.4,College Fair,Bengaluru
+CAND00451,Rahul Rao,rahul.rao451@example.com,8.6,Career Site,Noida
+CAND00452,Nikhil Kumar,nikhil.kumar452@example.com,4.7,Naukri,Bengaluru
+CAND00453,Arjun Sharma,arjun.sharma453@example.com,9.7,,Hyderabad
+CAND00454,Anjali Verma,anjali.verma454@example.com,3.0,LinkedIn,Hyderabad
+CAND00455,Varun Bose,varun.bose455@example.com,11.8,Referral,Hyderabad
+CAND00456,Neha Iyer,neha.iyer456@example.com,3.8,,Bengaluru
+CAND00457,Pooja Iyer,pooja.iyer457@example.com,6.8,Referral ,Noida
+CAND00458, Divya Patel ,divya.patel458@example.com,5.9,Naukri,Bengaluru
+CAND00459,Nikhil Mehta,nikhil.mehta459@example.com,0.0,Referral,Pune
+CAND00460,Anjali Kapoor,anjali.kapoor460@example.com,9.6,Referral,Noida
+CAND00461,Vikram Rao,vikram.rao461@example.com,1.3,linkedin,Pune
+CAND00462,Rahul Iyer,rahul.iyer462@example.com,1.2,Referral,Chennai
+CAND00463,Isha Rao,isha.rao463@example.com,7.7,College Fair,Chennai
+CAND00464,Kavya Rao,kavya.rao464@example.com,4.3,career site,Pune
+CAND00465, Divya Patel ,divya.patel465@example.com,2.1,,Remote
+CAND00466,Varun Sharma,varun.sharma466@example.com,2.2,,Hyderabad
+CAND00467,Varun Verma,varun.verma467@example.com,11.2,Naukri,Pune
+CAND00468,Sanjay Patel,sanjay.patel468@example.com,7.6,Career Site,Remote
+CAND00469,Aarav Reddy,aarav.reddy469@example.com,2.5,linkedin,Chennai
+CAND00470,Aarav Sharma,aarav.sharma470@example.com,4.6,career site,Remote
+CAND00471,Rahul Kumar,rahul.kumar471@example.com,6.6,,Chennai
+CAND00472,Neha Patel,neha.patel472@example.com,,LinkedIn,Pune
+CAND00473,Arjun Verma,arjun.verma473@example.com,0.9,linkedin,Noida
+CAND00474,Rohan Kumar,rohan.kumar474@example.com,7.1,LinkedIn,Remote
+CAND00475,Anjali Iyer,anjali.iyer475@example.com,10.7,Naukri,Hyderabad
+CAND00476,Isha Chopra,isha.chopra476@example.com,6.6,Indeed,Pune
+CAND00477,Neha Verma,neha.verma477@example.com,0.6,Referral,Bengaluru
+CAND00478,Pooja Sharma,pooja.sharma478@example.com,5.1,,Remote
+CAND00479,Karan Verma,karan.verma479@example.com,0.3,linkedin,Remote
+CAND00480,Sneha Reddy,sneha.reddy480@example.com,9.4,Indeed,Bengaluru
+CAND00481,Ritu Singh,ritu.singh481@example.com,2.2,Referral ,Bengaluru
+CAND00482,Arjun Mehta,arjun.mehta482@example.com,5.6,LinkedIn,Hyderabad
+CAND00483,Sneha Verma,sneha.verma483@example.com,8.0,,Hyderabad
+CAND00484,Ritu Sharma,ritu.sharma484@example.com,10.1,College Fair,Chennai
+CAND00485,Meera Iyer,meera.iyer485@example.com,10.6,LinkedIn,Noida
+CAND00486,Varun Kapoor,varun.kapoor486@example.com,6.2,Referral,Bengaluru
+CAND00487,Aditya Patel,aditya.patel487@example.com,11.4,Naukri,Hyderabad
+CAND00488,Priya Singh,priya.singh488@example.com,0.9,Referral,Noida
+CAND00489,Arjun Kumar,arjun.kumar489@example.com,10.9,career site,Noida
+CAND00490,Rahul Nair,rahul.nair490@example.com,3.9,LinkedIn,Chennai
+CAND00491,Kavya Iyer,kavya.iyer491@example.com,6.3,Referral,Noida
+CAND00492,Varun Iyer,varun.iyer492@example.com,9.1,,Bengaluru
+CAND00493,Divya Bose,divya.bose493@example.com,6.4,career site,Chennai
+CAND00494, Meera Iyer ,meera.iyer494@example.com,7.3,Referral,Noida
+CAND00495, Kavya Das ,kavya.das495@example.com,8.3,Career Site,Chennai
+CAND00496,Neha Sharma,neha.sharma496@example.com,8.9,LinkedIn,Pune
+CAND00497,Divya Reddy,divya.reddy497@example.com,3.4,linkedin,Hyderabad
+CAND00498,Vikram Reddy,vikram.reddy498@example.com,11.7,Indeed,Chennai
+CAND00499,Isha Iyer,isha.iyer499@example.com,7.7,career site,Chennai
+CAND00500,Meera Rao,meera.rao500@example.com,6.2,Referral,Bengaluru
+CAND00501,Divya Chopra,divya.chopra501@example.com,6.1,,Bengaluru
+CAND00502,Anjali Gupta,anjali.gupta502@example.com,10.5,LinkedIn,Remote
+CAND00503,Priya Kapoor,priya.kapoor503@example.com,4.3,Referral ,Noida
+CAND00504,Rahul Das,rahul.das504@example.com,11.1,Referral ,Noida
+CAND00505,Aditya Patel,aditya.patel505@example.com,11.5,Career Site,Hyderabad
+CAND00506, Arjun Chopra ,arjun.chopra506@example.com,,LinkedIn,Hyderabad
+CAND00507,Varun Rao,varun.rao507@example.com,11.6,Naukri,Pune
+CAND00508,Isha Nair,isha.nair508@example.com,0.2,LinkedIn,Remote
+CAND00509,Vikram Das,vikram.das509@example.com,2.1,,Pune
+CAND00510,Arjun Singh,arjun.singh510@example.com,10.7,Naukri,Remote
+CAND00511,Divya Das,divya.das511@example.com,6.2,LinkedIn,Noida
+CAND00512,Pooja Nair,pooja.nair512@example.com,7.8,linkedin,Remote
+CAND00513,Rohan Kumar,rohan.kumar513@example.com,11.9,Indeed,Chennai
+CAND00514,Divya Gupta,divya.gupta514@example.com,1.8,,Remote
+CAND00515, Sanjay Das ,sanjay.das515@example.com,1.7,Indeed,Pune
+CAND00516, Isha Singh ,isha.singh516@example.com,4.7,,Hyderabad
+CAND00517,Sanjay Chopra,sanjay.chopra517@example.com,8.6,Referral ,Chennai
+CAND00518,Pooja Nair,pooja.nair518@example.com,3.6,College Fair,Hyderabad
+CAND00519,Divya Verma,divya.verma519@example.com,5.6,College Fair,Hyderabad
+CAND00520,Sanjay Das,sanjay.das520@example.com,1.1,Indeed,Remote
+CAND00521,Sanjay Kumar,sanjay.kumar521@example.com,3.1,Referral ,Bengaluru
+CAND00522, Varun Iyer ,varun.iyer522@example.com,11.3,College Fair,Bengaluru
+CAND00523, Rahul Nair ,rahul.nair523@example.com,3.6,Referral,Hyderabad
+CAND00524,Sanjay Singh,sanjay.singh524@example.com,11.8,Referral,Pune
+CAND00525,Anjali Rao,anjali.rao525@example.com,1.0,Career Site,Chennai
+CAND00526,Priya Sharma,priya.sharma526@example.com,5.4,,Hyderabad
+CAND00527, Meera Rao ,meera.rao527@example.com,9.2,career site,Remote
+CAND00528, Isha Mehta ,isha.mehta528@example.com,4.6,Career Site,Bengaluru
+CAND00529,Sanjay Rao,sanjay.rao529@example.com,10.0,Naukri,Hyderabad
+CAND00530,Pooja Reddy,pooja.reddy530@example.com,1.5,Referral,Bengaluru
+CAND00531,Priya Reddy,priya.reddy531@example.com,11.4,College Fair,Pune
+CAND00532,Isha Kapoor,isha.kapoor532@example.com,8.2,Referral ,Pune
+CAND00533,Karan Patel,karan.patel533@example.com,11.4,Naukri,Hyderabad
+CAND00534,Vikram Gupta,vikram.gupta534@example.com,8.8,Career Site,Chennai
+CAND00535,Priya Singh,priya.singh535@example.com,10.5,LinkedIn,Noida
+CAND00536,Priya Das,priya.das536@example.com,,linkedin,Remote
+CAND00537,Aditya Singh,aditya.singh537@example.com,1.5,Naukri,Chennai
+CAND00538,Aarav Reddy,aarav.reddy538@example.com,5.1,,Noida
+CAND00539,Vikram Singh,vikram.singh539@example.com,10.0,linkedin,Pune
+CAND00540,Sneha Rao,sneha.rao540@example.com,1.3,Indeed,Noida
+CAND00541,Karan Kumar,karan.kumar541@example.com,,Referral ,Hyderabad
+CAND00542, Meera Kumar ,meera.kumar542@example.com,2.8,linkedin,Noida
+CAND00543,Meera Patel,meera.patel543@example.com,11.4,linkedin,Pune
+CAND00544,Neha Mehta,neha.mehta544@example.com,11.9,linkedin,Hyderabad
+CAND00545,Priya Bose,priya.bose545@example.com,3.5,linkedin,Bengaluru
+CAND00546,Priya Sharma,priya.sharma546@example.com,10.2,Career Site,Remote
+CAND00547, Kavya Reddy ,kavya.reddy547@example.com,10.5,Referral,Bengaluru
+CAND00548,Rahul Singh,rahul.singh548@example.com,11.5,Referral ,Remote
+CAND00549,Anjali Verma,anjali.verma549@example.com,1.6,Referral,Bengaluru
+CAND00550,Isha Kapoor,isha.kapoor550@example.com,7.1,Referral,Noida
+CAND00551, Rahul Rao ,rahul.rao551@example.com,4.3,Referral,Remote
+CAND00552,Meera Verma,meera.verma552@example.com,10.7,Career Site,Bengaluru
+CAND00553,Nikhil Rao,nikhil.rao553@example.com,8.9,Career Site,Noida
+CAND00554, Nikhil Chopra ,nikhil.chopra554@example.com,8.4,Naukri,Remote
+CAND00555,Pooja Das,pooja.das555@example.com,8.1,College Fair,Noida
+CAND00556,Priya Sharma,priya.sharma556@example.com,7.7,Referral ,Hyderabad
+CAND00557,Rohan Rao,rohan.rao557@example.com,5.9,LinkedIn,Noida
+CAND00558,Neha Nair,neha.nair558@example.com,7.7,Referral ,Remote
+CAND00559,Varun Mehta,varun.mehta559@example.com,1.1,Referral ,Chennai
+CAND00560, Aarav Verma ,aarav.verma560@example.com,4.8,linkedin,Noida
+CAND00561,Kavya Das,kavya.das561@example.com,3.7,Referral ,Pune
+CAND00562,Pooja Bose,pooja.bose562@example.com,0.7,College Fair,Noida
+CAND00563,Kavya Mehta,kavya.mehta563@example.com,8.6,linkedin,Chennai
+CAND00564,Neha Sharma,neha.sharma564@example.com,4.1,Indeed,Noida
+CAND00565, Nikhil Kumar ,nikhil.kumar565@example.com,8.4,Referral,Chennai
+CAND00566,Isha Verma,isha.verma566@example.com,3.1,career site,Hyderabad
+CAND00567,Aditya Bose,aditya.bose567@example.com,9.4,career site,Bengaluru
+CAND00568,Varun Verma,varun.verma568@example.com,9.3,College Fair,Hyderabad
+CAND00569, Meera Sharma ,meera.sharma569@example.com,6.4,,Remote
+CAND00570,Nikhil Rao,nikhil.rao570@example.com,11.1,Referral,Bengaluru
+CAND00571,Rahul Das,rahul.das571@example.com,7.2,career site,Remote
+CAND00572,Kavya Kapoor,kavya.kapoor572@example.com,8.3,Career Site,Pune
+CAND00573,Aditya Rao,aditya.rao573@example.com,1.6,College Fair,Pune
+CAND00574,Ritu Bose,ritu.bose574@example.com,3.8,Naukri,Hyderabad
+CAND00575,Karan Iyer,karan.iyer575@example.com,8.6,Referral,Chennai
+CAND00576,Anjali Nair,anjali.nair576@example.com,6.5,Career Site,Noida
+CAND00577,Meera Iyer,meera.iyer577@example.com,6.8,College Fair,Pune
+CAND00578,Isha Rao,isha.rao578@example.com,0.2,LinkedIn,Chennai
+CAND00579,Priya Gupta,priya.gupta579@example.com,3.2,Indeed,Hyderabad
+CAND00580,Priya Chopra,priya.chopra580@example.com,9.4,Career Site,Remote
+CAND00581,Sneha Iyer,sneha.iyer581@example.com,10.4,College Fair,Remote
+CAND00582,Neha Nair,neha.nair582@example.com,9.4,LinkedIn,Remote
+CAND00583,Rahul Singh,rahul.singh583@example.com,11.5,College Fair,Bengaluru
+CAND00584,Aarav Chopra,aarav.chopra584@example.com,3.0,Referral ,Hyderabad
+CAND00585,Pooja Rao,pooja.rao585@example.com,7.1,Naukri,Pune
+CAND00586, Aditya Patel ,aditya.patel586@example.com,11.8,College Fair,Bengaluru
+CAND00587,Rahul Sharma,rahul.sharma587@example.com,5.1,,Pune
+CAND00588,Aarav Kumar,aarav.kumar588@example.com,,Career Site,Noida
+CAND00589,Priya Rao,priya.rao589@example.com,11.2,Referral ,Noida
+CAND00590,Ritu Kumar,ritu.kumar590@example.com,0.9,Referral,Noida
+CAND00591,Rohan Rao,rohan.rao591@example.com,6.1,linkedin,Pune
+CAND00592,Neha Kapoor,neha.kapoor592@example.com,2.6,Naukri,Noida
+CAND00593,Nikhil Mehta,nikhil.mehta593@example.com,12.0,LinkedIn,Bengaluru
+CAND00594,Pooja Mehta,pooja.mehta594@example.com,2.9,Naukri,Bengaluru
+CAND00595,Sanjay Singh,sanjay.singh595@example.com,11.0,College Fair,Chennai
+CAND00596,Divya Sharma,divya.sharma596@example.com,10.9,College Fair,Remote
+CAND00597,Meera Sharma,meera.sharma597@example.com,3.6,linkedin,Bengaluru
+CAND00598, Anjali Rao ,anjali.rao598@example.com,6.5,Naukri,Chennai
+CAND00599,Isha Bose,isha.bose599@example.com,1.2,career site,Chennai
+CAND00600, Rohan Chopra ,rohan.chopra600@example.com,8.2,LinkedIn,Bengaluru

@@ -1,0 +1,40 @@
+============================================================
+hbase_serving_layer.txt
+Where HBase fits in this architecture (vs. Hive vs. Postgres)
+
+Hive/HDFS  -> batch analytics, historical trend queries, large scans
+Postgres   -> BI/reporting warehouse (star schema), SQL analysts, dashboards
+HBase      -> low-latency point lookups, e.g. "pull up THIS candidate's
+              full profile + activity history the instant a recruiter
+              opens their record in the ATS UI" - not a batch scan,
+              a single-key random-access read.
+
+This is the classic lambda-style split: Hive/Postgres = analytical
+plane, HBase = operational/serving plane.
+============================================================
+
+-- Create the table (run in HBase shell)
+create 'candidate_profile',
+  {NAME => 'info', VERSIONS => 1},      -- name, email, source, location
+  {NAME => 'activity', VERSIONS => 5}   -- last N application/stage events
+
+-- Row key design: candidate_id (e.g. "CAND00042")
+-- Rationale: all lookups in the recruiter UI are "give me candidate X",
+-- so candidate_id as the row key gives O(1) access via HBase's
+-- row-key-sorted storage - no secondary index needed for this access pattern.
+
+-- Example puts (loaded from the same cleaned Python dataframe used for Postgres)
+put 'candidate_profile', 'CAND00042', 'info:full_name', 'Aditya Iyer'
+put 'candidate_profile', 'CAND00042', 'info:source', 'LinkedIn'
+put 'candidate_profile', 'CAND00042', 'activity:latest_stage', 'Interview'
+put 'candidate_profile', 'CAND00042', 'activity:latest_stage_date', '2025-02-09'
+
+-- Example get (what the ATS UI would call on page load)
+get 'candidate_profile', 'CAND00042'
+
+-- Design note for interviews:
+-- Wide column families (info vs activity) let us update activity
+-- frequently (new stage events) without rewriting the static info
+-- columns - cheaper writes, and versioning on 'activity' gives us
+-- a built-in history of the last 5 stage changes per candidate
+-- without needing a separate audit table.
